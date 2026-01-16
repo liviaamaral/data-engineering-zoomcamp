@@ -1,0 +1,17 @@
+.venv/
+*.parquet
+*.csv
+
+keys/
+*.pem
+my_creds.json
+*credentials*.json
+
+__pycache__/
+.DS_Store
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
