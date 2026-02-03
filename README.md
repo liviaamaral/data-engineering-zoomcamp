@@ -15,3 +15,9 @@ This repository contains my notes, homework, and projects from the
   - Building ETL pipelines with Kestra
   - Data extraction from APIs and files
   - Loading data to PostgreSQL, GCS, and BigQuery
+- [`03_data_warehouse/`](03_data_warehouse)
+  - Data warehouse architecture and design patterns
+  - OLAP vs OLTP database systems
+  - BigQuery fundamentals and serverless architecture
+  - Partitioning and clustering for query optimization
+  
