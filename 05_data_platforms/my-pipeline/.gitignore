@@ -1,0 +1,8 @@
+.bruin.yml
+taxi_rides_ny.duckdb
+taxi_rides_ny.duckdb.wal
+*.duckdb
+*.duckdb.wal
+__pycache__/
+*.pyc
+.DS_Store
