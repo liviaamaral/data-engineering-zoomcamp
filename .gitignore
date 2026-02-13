@@ -28,3 +28,8 @@ logs/
 # Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb_checkpoints
+.bruin.yml
+logs/runs
+logs/*.log
+*.py[cod]
+logs/queries
