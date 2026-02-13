@@ -20,4 +20,12 @@ This repository contains my notes, homework, and projects from the
   - OLAP vs OLTP database systems
   - BigQuery fundamentals and serverless architecture
   - Partitioning and clustering for query optimization
-  
+- [`04_analytics_engineering/`](04_analytics_engineering)
+  - Analytics Engineering role and transformation workflows with dbt
+  - Dimensional modeling with Kimball methodology (facts & dimensions)
+  - Building modular SQL models with testing and documentation
+- [`05_data_platforms/`](05_data_platforms)
+  - Unified data pipelines with Bruin (ingestion + transformation + quality)
+  - Materialization strategies and incremental processing with time_interval
+  - Quality checks and metadata-driven development
+  - Pipeline variables, lineage tracking, and full-refresh deployments
