@@ -33,3 +33,12 @@ logs/runs
 logs/*.log
 *.py[cod]
 logs/queries
+
+requirements.txt
+
+# dlt pipelines
+.dlt/secrets.toml
+pipeline_*.json
+
+# marimo
+__marimo__/
