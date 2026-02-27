@@ -1,0 +1,12 @@
+auth_info:
+- information_source; task description:
+  - No authentication required
+
+possible_base_urls:
+- information_source; task description:
+  - https://us-central1-dlthub-analytics.cloudfunctions.net/data_engineering_zoomcamp_api
+
+possible_endpoints:
+- information_source; task description:
+  - GET https://us-central1-dlthub-analytics.cloudfunctions.net/data_engineering_zoomcamp_api?page=1
+  - pagination: page_number via ?page= query parameter, 1000 records per page, stop on empty list
